@@ -43,7 +43,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [joshiprem2015@gmail.com] - feel free to contact me!
 
 
 <!-- Optional -->
